@@ -15,7 +15,6 @@ I'm a beginner developer currently learning how to build things for the web. I'm
 
 **Backend & Tools:**
 - Node.js
-- Docker
 - Shell scripting (using Ubuntu)
 
 ### 🚀 My Big Goal
