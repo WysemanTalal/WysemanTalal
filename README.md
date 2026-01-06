@@ -24,7 +24,7 @@ I am currently working on a **full-scale E-commerce website**. I want to use eve
 ---
 
 ### My GitHub Stats 📈
-![Stats](https://github-readme-stats.vercel.app/api?username=WysemanTalal&show_icons=true&theme=cobalt)
+![Stats](https://github-readme-stats.vercel.app/api?username=WysemanTalal&show_icons=true&theme=cobalt&count_private=true)
 
 ---
 
