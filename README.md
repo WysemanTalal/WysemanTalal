@@ -4,7 +4,7 @@ I'm a beginner developer currently learning how to build things for the web. I'm
 
 ### 🛠 What I'm using right now
 - **Languages:** HTML, CSS, and JavaScript.
-- **Frameworks:** Bootstrap (for making things look good on mobile!).
+- **Frameworks:** Bootstrap
 - **Databases:** MongoDB and MySQL.
 
 ### 📚 Currently Learning
