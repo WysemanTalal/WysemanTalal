@@ -1,4 +1,4 @@
-# Hi! I'm [Talal or WysemanTalal] 👋
+# Hi! I'm Talal or WysemanTalal 👋
 
 I'm a beginner developer currently learning how to build things for the web. I'm documenting my journey here on GitHub as I move from basic websites to more complex apps.
 
