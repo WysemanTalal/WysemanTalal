@@ -3,7 +3,7 @@
 I'm a beginner developer currently learning how to build things for the web. I'm documenting my journey here on GitHub as I move from basic websites to more complex apps.
 
 ### 🛠 What I'm using right now
-- **Languages:** HTML, CSS, and JavaScript.
+- **Languages:** HTML, CSS, JavaScript, AJAX.
 - **Frameworks:** Bootstrap
 - **Databases:** MongoDB and MySQL.
 
